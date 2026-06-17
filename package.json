@@ -1,0 +1,19 @@
+{
+  "name": "untitled7",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map style.scss:main.css",
+    "watch": "sass --watch style.scss:main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.99.0"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.13.1"
+  }
+}

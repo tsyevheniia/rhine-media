@@ -1,0 +1,30 @@
+$font-body: 'Inter', sans-serif;
+$font-title: 'Manrope', sans-serif;
+$gold-light: #E6B85C;
+$gold-color: #C9973B;
+$gold-gradient: linear-gradient(
+                90deg,
+                #C9973B 0%,
+                #E6B85C 100%
+);
+$nav-link-color: #8892AE;
+$ease-smooth: cubic-bezier(0.16, 1, 0.3, 1);
+$transition-fast: 0.2s;
+$transition-normal: 0.3s;
+$btn-dark-text: #150e00;
+
+$text-main: #EDF0FA;
+$text-muted: #8892AE;
+$text-dark: #4E5770;
+
+$bg-main: #05070E;
+$bg-section: #080C18;
+$bg-card: #101826;
+
+$border-light: rgba(255, 255, 255, 0.04);
+$bg-card-hover: #141F30;
+$error-color: #E25D5D;
+
+$gold-bg-soft: rgba(201, 151, 59, 0.12);
+$gold-border: rgba(201, 151, 59, 0.28);
+$border-medium: rgba(255, 255, 255, 0.08);
